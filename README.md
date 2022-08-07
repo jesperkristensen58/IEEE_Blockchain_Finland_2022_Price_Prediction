@@ -1,7 +1,9 @@
 ![IEE Blockchain 2022](./banner.png)
 
-This is the code base of a Paper I co-authored for the 5th IEEE International Conference on Blockchain (Blockchain 2022): http://www.blockchain-ieee.org/.
+<h1>Predicting Crypto Prices with AI</h1>
 
+This is the code base of a Paper I co-authored for the 5th IEEE International Conference on Blockchain (Blockchain 2022): http://www.blockchain-ieee.org/.
+  
 The paper's title is "Cryptocurrency Price Prediction With Multi-task Multi-step Sequence-to-Sequence Modeling"
 
 <p align="center">
