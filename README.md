@@ -19,7 +19,7 @@ Edit experiment parameters from within *_utils.py*
 
 
 ## Contact
-If you want to contact me you can reach me at [@cryptojesperk](https://twitter.com/cryptojesperk).
+If you want to contact me you can reach me at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/cryptojesperk.svg?style=social&label=Follow%20%40cryptojesperk)](https://twitter.com/cryptojesperk)
 
 
 ## License
