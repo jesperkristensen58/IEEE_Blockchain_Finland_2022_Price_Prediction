@@ -17,4 +17,10 @@ The data used is minute-by-minute crypto data from Kaggle:
 
 Edit experiment parameters from within *_utils.py*
 
-Reach out on Twitter @cryptojesperk
+
+## Contact
+If you want to contact me you can reach me at [@cryptojesperk](https://twitter.com/cryptojesperk).
+
+
+## License
+This project uses the following license: [MIT](https://github.com/bisguzar/twitter-scraper/blob/master/LICENSE).
