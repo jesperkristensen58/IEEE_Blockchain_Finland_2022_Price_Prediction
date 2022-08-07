@@ -3,7 +3,7 @@ This is the code base of a Paper I co-authored for the 5th IEEE International Co
 The paper's title is "Cryptocurrency Price Prediction With Multi-task Multi-step Sequence-to-Sequence Modeling"
 
 <p align="center">
-  <img src="./rollercoaster.gif" width="40" height="40" />
+  <img src="./rollercoaster.gif" width="100" height="100" />
 </p>
 
 
