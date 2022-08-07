@@ -1,0 +1,5 @@
+Code for forecasting the prices of cryptocurrencies
+
+Download data from: https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution
+
+Edit experiment parameters from within *_utils.py*
